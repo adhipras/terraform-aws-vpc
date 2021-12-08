@@ -1,2 +1,3 @@
-# terraform-aws-vpc
-A VPC reference provisioned with Terraform
+# Terraform AWS VPC
+
+An Amazon Web Services Virtual Private Cloud reference provisioned with Terraform.
